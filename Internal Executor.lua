@@ -21,7 +21,7 @@ Instance5.Name = "Internal"
 Instance5.ScreenInsets = Enum.ScreenInsets.DeviceSafeInsets
 
 local Instance6 = Instance.new("Frame", Instance5) --SquaredFrame
-Instance6.Visible = false
+Instance6.Visible = true
 Instance6.SelectionOrder = 0
 Instance6.Name = "SquaredFrame"
 Instance6.Active = false
